@@ -1,0 +1,25 @@
+-About-
+
+-This is perfect for when your teacher walks by and you wont even have to close out the tab
+-Copy which ever you want your page to look like
+
+
+--Make your page look like canvas--
+javascript:(function()%7Bfunction gcloak() %7B var link %3D document.querySelector("link%5Brel*%3D'icon'%5D") %7C%7C document.createElement('link')%3Blink.type %3D 'image%2Fx-icon'%3Blink.rel %3D 'shortcut icon'%3Blink.href %3D 'https%3A%2F%2Fwww.stetson.edu%2Fother%2Fcanvas%2Fmedia%2FCanvas-Logo.png'%3Bdocument.title %3D 'Dashboard'%3Bconsole.log(document.title)%3Bdocument.getElementsByTagName('head')%5B0%5D.appendChild(link) %7D%3Bgcloak()%3BsetInterval(gcloak%2C 1000)%7D)()
+
+--Make your page look like iready--
+(function()%7Bfunction gcloak() %7B var link %3D document.querySelector("link%5Brel*%3D'icon'%5D") %7C%7C document.createElement('link')%3Blink.type %3D 'image%2Fx-icon'%3Blink.rel %3D 'shortcut icon'%3Blink.href %3D 'https://www.msd.k12.ny.us/cms/lib/NY02208570/Centricity/Domain/1760/iReady.PNG'%3Bdocument.title %3D 'iReady'%3Bconsole.log(document.title)%3Bdocument.getElementsByTagName('head')%5B0%5D.appendChild(link) %7D%3Bgcloak()%3BsetInterval(gcloak%2C 1000)%7D)()
+
+--You can make it look like whatever you want--
+
+-Look for the place where it says "iReady" or "Dashboard" and change it to whatever you want.
+-Find the image (It should have ".png" at the end) and paste the image adress into it.
+-Boom, your teacher is now not gonna give a shit about what webpage you are on.
+
+
+
+
+
+
+
+-Fuck teachers-
