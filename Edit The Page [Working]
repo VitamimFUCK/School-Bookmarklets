@@ -1,0 +1,13 @@
+-Info-
+
+-I did not make this
+-This works on every site
+
+-
+-Copy Everything UNDER here-
+
+
+javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
+
+
+
