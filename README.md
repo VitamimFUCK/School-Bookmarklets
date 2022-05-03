@@ -1,15 +1,15 @@
-# School-Bookmarklets
-ภ๏๒๏๔ץ ฬเɭɭ รՇ๏ק ยร 
+# Info
+ภ๏๒๏๔ץ ฬเɭɭ รՇ๏ק ยร
 
+# How to use 
 
--I hate school
--Fuck teachers
--I hate iReady
+<details>
+<summary><b>How to use</b></summary>
+https://www.wevideo.com/view/2669911079
 
-iReady is retarted
+</details>    
 
-
-![Uploading download.jpg…]()
+	
 
 
 
