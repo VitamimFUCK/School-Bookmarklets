@@ -1,0 +1,10 @@
+-About-
+
+-I dont own this
+-Easy to use
+-Make sure to use headphones
+
+--Copy everything below here--
+
+
+javascript:(function(){var js=document.body.appendChild(document.createElement("script"));js.onerror=function(){alert("Sorry, the script could not be loaded.")};js.src="https://rawgit.com/Krazete/bookmarklets/master/piano.js"})();
