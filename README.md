@@ -34,7 +34,7 @@ Iready is stupid and retarted
 
 ## Fuck school
 
-:Trollface:
+:trollface:
 
 	
 
