@@ -8,7 +8,7 @@
 javascript:(function()%7Bfunction gcloak() %7B var link %3D document.querySelector("link%5Brel*%3D'icon'%5D") %7C%7C document.createElement('link')%3Blink.type %3D 'image%2Fx-icon'%3Blink.rel %3D 'shortcut icon'%3Blink.href %3D 'https%3A%2F%2Fwww.stetson.edu%2Fother%2Fcanvas%2Fmedia%2FCanvas-Logo.png'%3Bdocument.title %3D 'Dashboard'%3Bconsole.log(document.title)%3Bdocument.getElementsByTagName('head')%5B0%5D.appendChild(link) %7D%3Bgcloak()%3BsetInterval(gcloak%2C 1000)%7D)()
 
 --Make your page look like iready--
-javascript:(function()%7Bfunction gcloak() %7B var link %3D document.querySelector("link%5Brel*%3D'icon'%5D") %7C%7C document.createElement('link')%3Blink.type %3D 'image%2Fx-icon'%3Blink.rel %3D 'shortcut icon'%3Blink.href %3D 'https://www.msd.k12.ny.us/cms/lib/NY02208570/Centricity/Domain/1760/iReady.PNG'%3Bdocument.title %3D 'iReady'%3Bconsole.log(document.title)%3Bdocument.getElementsByTagName('head')%5B0%5D.appendChild(link) %7D%3Bgcloak()%3BsetInterval(gcloak%2C 1000)%7D)()
+javascript:(function()%7Bfunction gcloak() %7B var link %3D document.querySelector("link%5Brel*%3D'icon'%5D") %7C%7C document.createElement('link')%3Blink.type %3D 'image%2Fx-icon'%3Blink.rel %3D 'shortcut icon'%3Blink.href %3D 'https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw2yyRtilVLVvXkdVjww13oQ&ust=1653397164853000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLikpc7W9fcCFQAAAAAdAAAAABAD'%3Bdocument.title %3D 'Gmail'%3Bconsole.log(document.title)%3Bdocument.getElementsByTagName('head')%5B0%5D.appendChild(link) %7D%3Bgcloak()%3BsetInterval(gcloak%2C 1000)%7D)()
 
 --You can make it look like whatever you want--
 
